@@ -2,7 +2,8 @@
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me 
+- 📫 How to reach me:
+     my username: Mnsvi2004
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
